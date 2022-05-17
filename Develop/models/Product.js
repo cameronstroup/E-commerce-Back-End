@@ -50,5 +50,5 @@ Product.init(
     modelName: "product",
   }
 );
-
+console.log(Product);
 module.exports = Product;
