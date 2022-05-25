@@ -75,7 +75,7 @@ Last, if you are using this to create your own APIs refer to Postman to test the
 ## View
 
 
-[Click [here](https://drive.google.com/file/d/1XP2-USF3bz94PUKKyzsfkie7EpgevDS-/view) to see all APIs being tested in Postman](https://user-images.githubusercontent.com/90347622/170358666-13f032f3-1318-46d0-9fc1-35004a4a76ab.png)
+![image](https://user-images.githubusercontent.com/90347622/170358892-51914254-4fd5-43ea-81b4-7afa29d18b81.png)
 
 
 
