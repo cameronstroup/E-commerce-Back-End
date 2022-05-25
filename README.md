@@ -25,10 +25,7 @@ The _E-Commerce Back End_ is an application where the user is able to build a da
 ## User Story
 
 ```md
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
-```
+As the manager of a store, I want a way to be able to stay organized and flexible with all my proudcuts and new products comming in. This tool streamslines that process and make my life easier 
 
 
 ## Installation
@@ -37,9 +34,9 @@ To start using this _E-Commerce Back End_ application you must follow these inst
 
 * Fork and clone this repository and save it to your computer. For help how to fork and clone click [here](https://guides.github.com/activities/forking/) 
 
-* Download Postman to test the APIs. To download Postman click [here](https://www.postman.com/downloads/)
+* Must download Insomnia to the computer for viewing purposes
 
-* Open your terminal and make sure noje.js is installed. To download node.js click [here](https://nodejs.org/en/download/)
+* Open your terminal and make sure noje.js is installed.
 
 * Run command _npm i_ to install all the dependencies in this repository. If you wish to install one by one you will need to install: [sequelize](https://www.npmjs.com/package/sequelize), [MYSQL2](https://www.npmjs.com/package/mysql2) and [dotenv](https://www.npmjs.com/package/dotenv) by running the following commands:
 
