@@ -10,8 +10,7 @@ URL of GitHub repository: https://github.com/cameronstroup/E-commerce-Back-End
 ## Table of Contents
 
 * [Description](#description)
-    * [User Story](#user-story)
-
+* [User Story](#user-story)
 * [Installation](#installation)
 * [Usage](#usage)
 * [View](#view)
