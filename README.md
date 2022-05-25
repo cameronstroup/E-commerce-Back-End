@@ -71,7 +71,7 @@ Last, if you are using this to create your own APIs refer to Postman to test the
 ## View
 
 
-![image](https://user-images.githubusercontent.com/90347622/170358892-51914254-4fd5-43ea-81b4-7afa29d18b81.png)
+![image](https://user-images.githubusercontent.com/90347622/170359627-058e2a61-de39-4d86-9f97-82722bf04bd2.png)
 
 
 
